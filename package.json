@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "CLI program used to build a professional resume",
   "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": "https://github.com/croberts27/cli-resume-builder.git",
   "author": "Calvin Roberts",
   "license": "MIT",
