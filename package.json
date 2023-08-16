@@ -1,0 +1,9 @@
+{
+  "name": "cli-resume-builder",
+  "version": "1.0.0",
+  "description": "CLI program used to build a professional resume",
+  "main": "index.js",
+  "repository": "https://github.com/croberts27/cli-resume-builder.git",
+  "author": "Calvin Roberts",
+  "license": "MIT"
+}
